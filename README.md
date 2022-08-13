@@ -1,8 +1,8 @@
 # GTU Info | One-stop for GTU Students
 
 GTU Info is providing a bridge between Students and GTU University. 🧑‍🎓 
-<br/> 
-It is the one-stop for all GTU studedents, and have very beautiful user interface for giving a smooth experiance developed using flutter. 🎉
+
+It is the one-stop for all GTU students and has a very beautiful user interface for giving a smooth experience developed using flutter. 🎉
 
 On GTU Info you can find 👇
 - Syllabus 📖
@@ -33,13 +33,13 @@ On GTU Info you can find 👇
 
 ## Languages and Tools:
 
-Design
+UI Design
 <p>
 <!-- figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="flutter" /></a>
 </p>
 
-UI develop
+UI Developement
 <p>
 <!-- dart -->
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="flutter" /></a>
