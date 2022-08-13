@@ -18,7 +18,7 @@ On GTU Info you can find 👇
 ## Screenshots
 
 <p align="left"> 
-<img src="https://i.postimg.cc/j2ZrtQT2/Banner-Feature-graphic.png" alt="GTU Info banner" width=""/>
+<img src="https://i.postimg.cc/j2ZrtQT2/Banner-Feature-graphic.png" alt="GTU Info banner" width="500"/>
 <img src="https://i.postimg.cc/x8jWxJm2/Screen-1.png" alt="GTU Info banner" width="150"/>
 <img src="https://i.postimg.cc/cLYt4rKZ/Screen-2.png" alt="GTU Info banner" width="150"/>
 <img src="https://i.postimg.cc/XqmXnb4p/Screen-3.png" alt="GTU Info banner" width="150"/>
