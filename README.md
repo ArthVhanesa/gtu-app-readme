@@ -13,10 +13,10 @@ On GTU Info you can find 👇
 - Academic calendar 📆
 - Exam timetable ⏰ & many more.
 
-## Download now
+## Download now 🥳
 <p align="left"><a href='https://play.google.com/store/apps/details?id=com.astronapps.gtuApp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/></a></p>
 
-## Screenshots
+## Screenshots 📱
 
 <p align="left"> 
 <img src="https://i.postimg.cc/j2ZrtQT2/Banner-Feature-graphic.png" alt="GTU Info banner" width="500"/>
@@ -31,7 +31,7 @@ On GTU Info you can find 👇
 <img src="https://i.postimg.cc/L6GvbgKM/Screen-8.png" alt="GTU Info Screen-8" width="150"/>
 </p>
 
-## Languages and Tools:
+## Languages and Tools: ⚒️
 
 UI Design
 <p>
@@ -89,9 +89,9 @@ VCS & Repo
 
 ## We Never Stop Building! 🛠️
 
-Hi and nice to meet you! This is our brave team.
+Hi and nice to meet you! This is our brave team. 🚀
 
-Frontend is designed and developed by -
+Frontend is designed and developed by 👇
 
 [@ArthVhanesa](https://github.com/arthvhanesa)
 <p align="left">
@@ -105,7 +105,7 @@ Frontend is designed and developed by -
 
 <br/>
 
-Backend is developed by -
+Backend is developed by 👇
 
 [@KartikJetani](https://github.com/kartikjetani)
 <p align="left">
