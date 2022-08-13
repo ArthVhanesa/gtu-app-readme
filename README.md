@@ -1,7 +1,8 @@
 # GTU Info | One-stop for GTU Students
 
-GTU Info is providing a bridge between Students and GTU University. 🧑‍🎓
-A one-stop for all GTU studedents have very beautiful user interface for giving a smooth experiance developed using flutter. 🎉
+GTU Info is providing a bridge between Students and GTU University. 🧑‍🎓 
+<br/> 
+It is the one-stop for all GTU studedents, and have very beautiful user interface for giving a smooth experiance developed using flutter. 🎉
 
 On GTU Info you can find 👇
 - Syllabus 📖
@@ -19,8 +20,9 @@ On GTU Info you can find 👇
 
 <p align="left"> 
 <img src="https://i.postimg.cc/j2ZrtQT2/Banner-Feature-graphic.png" alt="GTU Info banner" width="500"/>
+<br/>
 <img src="https://i.postimg.cc/x8jWxJm2/Screen-1.png" alt="GTU Info banner" width="150"/>
-<img src="https://i.postimg.cc/cLYt4rKZ/Screen-2.png" alt="GTU Info banner" width="150"/>
+<img src="https://i.postimg.cc/d3HLww8b/Screen-2.png" alt="GTU Info banner" width="150"/>
 <img src="https://i.postimg.cc/XqmXnb4p/Screen-3.png" alt="GTU Info banner" width="150"/>
 <img src="https://i.postimg.cc/FKLM6XnT/Screen-4.png" alt="GTU Info banner" width="150"/>
 <img src="https://i.postimg.cc/9XZf7vmt/Screen-5.png" alt="GTU Info banner" width="150"/>
