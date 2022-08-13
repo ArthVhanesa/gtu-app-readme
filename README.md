@@ -39,7 +39,7 @@ UI Design
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" /></a>
 </p>
 
-<h4>Frontend Developement</h4>
+Frontend Developement
 <p>
 <!-- dart -->
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="DART" /></a>
@@ -92,6 +92,7 @@ VCS & Repo
 Hi and nice to meet you! This is our brave team.
 
 Frontend is designed and developed by -
+
 [@ArthVhanesa](https://github.com/arthvhanesa)
 <p align="left">
 <!-- Twitter -->
@@ -105,6 +106,7 @@ Frontend is designed and developed by -
 <br/>
 
 Backend is developed by -
+
 [@KartikJetani](https://github.com/kartikjetani)
 <p align="left">
 <!-- Twitter -->
