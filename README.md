@@ -19,16 +19,16 @@ On GTU Info you can find 👇
 ## Screenshots 📱
 
 <p align="left"> 
-<img src="https://i.postimg.cc/j2ZrtQT2/Banner-Feature-graphic.png" alt="GTU Info banner" width="500"/>
+<img width="500" alt="GTU Info - Banner" src="https://user-images.githubusercontent.com/77712031/184531921-8b9b44f6-8cc4-4ad4-9184-c6fa8f4c5940.png">
 <br/>
-<img src="https://i.postimg.cc/x8jWxJm2/Screen-1.png" alt="GTU Info Screen-1" width="150"/>
-<img src="https://i.postimg.cc/d3HLww8b/Screen-2.png" alt="GTU Info Screen-2" width="150"/>
-<img src="https://i.postimg.cc/XqmXnb4p/Screen-3.png" alt="GTU Info Screen-3" width="150"/>
-<img src="https://i.postimg.cc/FKLM6XnT/Screen-4.png" alt="GTU Info Screen-4" width="150"/>
-<img src="https://i.postimg.cc/9XZf7vmt/Screen-5.png" alt="GTU Info Screen-5" width="150"/>
-<img src="https://i.postimg.cc/bwBPMTYw/Screen-6.png" alt="GTU Info Screen-6" width="150"/>
-<img src="https://i.postimg.cc/rFh20JrN/Screen-7.png" alt="GTU Info Screen-7" width="150"/>
-<img src="https://i.postimg.cc/L6GvbgKM/Screen-8.png" alt="GTU Info Screen-8" width="150"/>
+<img width="150" alt="GTU Info - Screen 1" src="https://user-images.githubusercontent.com/77712031/184531491-47b17976-c73a-4051-a800-cc1bbd301e4c.png">
+<img width="150" alt="GTU Info - Screen 2" src="https://user-images.githubusercontent.com/77712031/184531499-fce4f978-4c70-45ec-9f8a-a0ea46729e9c.png">
+<img width="150" alt="GTU Info - Screen 3" src="https://user-images.githubusercontent.com/77712031/184531510-076b1839-c070-473f-af46-22f780847d36.png">
+<img width="150" alt="GTU Info - Screen 4" src="https://user-images.githubusercontent.com/77712031/184531515-f6a0b5c8-2c77-4551-880c-da564b2e5c30.png">
+<img width="150" alt="GTU Info - Screen 5" src="https://user-images.githubusercontent.com/77712031/184531518-9eb5cc8f-34e3-4ddc-b764-2807a86890dc.png">
+<img width="150" alt="GTU Info - Screen 6" src="https://user-images.githubusercontent.com/77712031/184531521-b3344699-8cbb-42af-91a8-b329ff9ba2fd.png">
+<img width="150" alt="GTU Info - Screen 7" src="https://user-images.githubusercontent.com/77712031/184531529-d5675c07-85b7-47b7-8989-7f11be8e1e2c.png">
+<img width="150" alt="GTU Info - Screen 8" src="https://user-images.githubusercontent.com/77712031/184531820-e7ec7270-32a9-4726-b962-c6536866e31f.png">
 </p>
 
 ## Languages and Tools: ⚒️
@@ -116,34 +116,3 @@ Backend is developed by 👇
 <!-- Instagram -->
 <a href="https://instagram.com/kartikjetani15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikjetani15" height="30" width="40" /></a>
 </p>
-
-
-
-![Banner - Feature graphic](https://user-images.githubusercontent.com/77712031/184531487-3ffde3ff-6765-405e-8257-444d4b82931c.png)
-
-
-<img width="1080" alt="Screen 1" src="https://user-images.githubusercontent.com/77712031/184531491-47b17976-c73a-4051-a800-cc1bbd301e4c.png">
-
-
-<img width="1080" alt="Screen 2" src="https://user-images.githubusercontent.com/77712031/184531499-fce4f978-4c70-45ec-9f8a-a0ea46729e9c.png">
-
-
-<img width="1080" alt="Screen 3" src="https://user-images.githubusercontent.com/77712031/184531510-076b1839-c070-473f-af46-22f780847d36.png">
-
-
-<img width="1080" alt="Screen 4" src="https://user-images.githubusercontent.com/77712031/184531515-f6a0b5c8-2c77-4551-880c-da564b2e5c30.png">
-
-
-<img width="1080" alt="Screen 5" src="https://user-images.githubusercontent.com/77712031/184531518-9eb5cc8f-34e3-4ddc-b764-2807a86890dc.png">
-
-
-<img width="1080" alt="Screen 6" src="https://user-images.githubusercontent.com/77712031/184531521-b3344699-8cbb-42af-91a8-b329ff9ba2fd.png">
-
-
-<img width="1080" alt="Screen 7" src="https://user-images.githubusercontent.com/77712031/184531529-d5675c07-85b7-47b7-8989-7f11be8e1e2c.png">
-
-
-<img width="1080" alt="Screen 8" src="https://user-images.githubusercontent.com/77712031/184531820-e7ec7270-32a9-4726-b962-c6536866e31f.png">
-
-
-<img width="1024" alt="Banner - Feature graphic" src="https://user-images.githubusercontent.com/77712031/184531921-8b9b44f6-8cc4-4ad4-9184-c6fa8f4c5940.png">
